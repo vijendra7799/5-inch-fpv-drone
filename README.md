@@ -2,7 +2,8 @@
 
 > A custom-built 5-inch FPV freestyle drone designed, assembled, configured, and flight-tested from individual components.
 
-![Drone](images/drone.jpg)
+<img width="1280" height="720" alt="WhatsApp Image 2026-06-29 at 3 15 52 PM (4)" src="https://github.com/user-attachments/assets/2dac0287-78f7-40ba-bfb4-ef176b24de95" />
+
 
 ---
 
